@@ -11,7 +11,6 @@ A sophisticated RAG (Retrieval-Augmented Generation) system that transforms your
   - **Summarize Mode**: Request comprehensive summaries on any topic
 - **🔍 Smart Retrieval**: Advanced document retrieval with source attribution
 - **⚡ Real-time Processing**: Automatic document indexing and embedding generation
-- **📱 Responsive Design**: Clean, modern interface that works on all devices
 
 ## 🚀 Quick Start
 
